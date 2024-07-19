@@ -16,7 +16,7 @@ The aim of this project was to explore and apply generative AI models to produce
      - **Simple Diffusion**
      - **Stable Diffusion**
      - **sg161222/realvisxl-v4.0**
-     - **Novae (v6.-b1)**
+     - **sg161222/realvisxl-v6.0 Novae (v6.-b1)**
 
 2. **Image Generation:**
    - Applied various prompts and negative prompts to guide the image generation process.
